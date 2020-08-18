@@ -32,7 +32,7 @@ export class AppComponent {
       <div class="loader-05"></div>
       </micro-one>`);
     // } else {
-    //   this.toShow = '';
+    //   this.toShow
     // }
   }
 
